@@ -930,7 +930,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 7e2b1a494bda2f14eba99817eb182b3f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::TrapController
-  rotationSpeed: 1000
+  rotationSpeed: 100
 --- !u!1 &929010059
 GameObject:
   m_ObjectHideFlags: 0
